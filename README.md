@@ -1,8 +1,8 @@
 # C-Sec_Tools
-Hi! This is my first public repo, I made it so that everyone interested can download this set of tools.
-My goal here is to include in this set all the tools that I will be working on during a Systems Vulnerabilities
-course that I am currently following at my university.
-The scripts in here will be written in bash and python (and maybe more in the future) and are aimed at 
+Hi! This is my first public repo, and it is related to Cyber Security (for studying purpuses).
+I am currently following a Systems Vulnerabilities course at my university, and I am planning to make a set
+of tools that are useful for practicing and, of course, for the exam.
+The scripts in here will be written in bash or python (and maybe more in the future) and are aimed at 
 building automated, personalized tools for pen-testing.
 I will add another file with the requirements specifications so that everyone can see what is needed and
-install any missing package.
+install any missing packages.
